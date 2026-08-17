@@ -3,6 +3,9 @@
 A cinematic personal portfolio built with HTML, CSS, JavaScript, GSAP animations, and interactive frame sequences.
 
 ## 🚀 Live Demo & Deployment
+
+https://my-portfolio-orcin-nine-81.vercel.app/
+
 This repository is configured for one-click deployment on **Vercel** or **GitHub Pages**.
 
 - **Vercel Deployment**: Import this GitHub repository (`Roshni877/my_portfolio`) directly into Vercel. Framework preset: **Other** / **Static HTML**.
